@@ -1,0 +1,11 @@
+Plotted to '/Users/ewanbowden/Documents/KiCad/7.0/RF_Race_Car/RF_Race_Car-F_Cu.gbr'.
+Plotted to '/Users/ewanbowden/Documents/KiCad/7.0/RF_Race_Car/RF_Race_Car-B_Cu.gbr'.
+Plotted to '/Users/ewanbowden/Documents/KiCad/7.0/RF_Race_Car/RF_Race_Car-F_Paste.gbr'.
+Plotted to '/Users/ewanbowden/Documents/KiCad/7.0/RF_Race_Car/RF_Race_Car-B_Paste.gbr'.
+Plotted to '/Users/ewanbowden/Documents/KiCad/7.0/RF_Race_Car/RF_Race_Car-F_Silkscreen.gbr'.
+Plotted to '/Users/ewanbowden/Documents/KiCad/7.0/RF_Race_Car/RF_Race_Car-B_Silkscreen.gbr'.
+Plotted to '/Users/ewanbowden/Documents/KiCad/7.0/RF_Race_Car/RF_Race_Car-F_Mask.gbr'.
+Plotted to '/Users/ewanbowden/Documents/KiCad/7.0/RF_Race_Car/RF_Race_Car-B_Mask.gbr'.
+Plotted to '/Users/ewanbowden/Documents/KiCad/7.0/RF_Race_Car/RF_Race_Car-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/ewanbowden/Documents/KiCad/7.0/RF_Race_Car/RF_Race_Car-job.gbrjob'.
+Info: Done.
